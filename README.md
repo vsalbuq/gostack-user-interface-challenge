@@ -1,1 +1,0 @@
-# gostack-user-interface-challenge
